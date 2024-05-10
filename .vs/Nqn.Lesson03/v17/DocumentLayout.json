@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\nqn.lesson03\\controllers\\nqncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|solutionrelative:nqn.lesson03\\controllers\\nqncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\nqn.lesson03\\views\\nqn\\addnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|solutionrelative:nqn.lesson03\\views\\nqn\\addnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|c:\\users\\nam31\\documents\\nqn.lesson03\\nqn.lesson03\\views\\nqn\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|solutionrelative:nqn.lesson03\\views\\nqn\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\nqn.lesson03\\views\\nqn\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|solutionrelative:nqn.lesson03\\views\\nqn\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\nqn.lesson03\\views\\nqn\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|solutionrelative:nqn.lesson03\\views\\nqn\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\nqn.lesson03\\views\\nqn\\ngonngurazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|solutionrelative:nqn.lesson03\\views\\nqn\\ngonngurazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\nqn.lesson03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{215A3A16-6614-46FB-A12B-E1E69343B6D8}|Nqn.Lesson03\\Nqn.Lesson03.csproj|solutionrelative:nqn.lesson03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ketqua.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Views\\Nqn\\ketqua.cshtml",
+              "RelativeDocumentMoniker": "Nqn.Lesson03\\Views\\Nqn\\ketqua.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Views\\Nqn\\ketqua.cshtml",
+              "RelativeToolTip": "Nqn.Lesson03\\Views\\Nqn\\ketqua.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T14:47:23.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddNewStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Views\\Nqn\\AddNewStudent.cshtml",
+              "RelativeDocumentMoniker": "Nqn.Lesson03\\Views\\Nqn\\AddNewStudent.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Views\\Nqn\\AddNewStudent.cshtml",
+              "RelativeToolTip": "Nqn.Lesson03\\Views\\Nqn\\AddNewStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T14:31:58.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NqnController.cs",
+              "DocumentMoniker": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Controllers\\NqnController.cs",
+              "RelativeDocumentMoniker": "Nqn.Lesson03\\Controllers\\NqnController.cs",
+              "ToolTip": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Controllers\\NqnController.cs",
+              "RelativeToolTip": "Nqn.Lesson03\\Controllers\\NqnController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwBwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:02:02.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NgonNguRazor.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Views\\Nqn\\NgonNguRazor.cshtml",
+              "RelativeDocumentMoniker": "Nqn.Lesson03\\Views\\Nqn\\NgonNguRazor.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Views\\Nqn\\NgonNguRazor.cshtml",
+              "RelativeToolTip": "Nqn.Lesson03\\Views\\Nqn\\NgonNguRazor.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T14:15:41.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nqn.Lesson03\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nqn.Lesson03\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T14:10:54.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Views\\Nqn\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nqn.Lesson03\\Views\\Nqn\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Views\\Nqn\\Index.cshtml",
+              "RelativeToolTip": "Nqn.Lesson03\\Views\\Nqn\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T10:03:36.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "chitiet.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Views\\Nqn\\chitiet.cshtml",
+              "RelativeDocumentMoniker": "Nqn.Lesson03\\Views\\Nqn\\chitiet.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\Documents\\Nqn.Lesson03\\Nqn.Lesson03\\Views\\Nqn\\chitiet.cshtml",
+              "RelativeToolTip": "Nqn.Lesson03\\Views\\Nqn\\chitiet.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T10:21:39.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
